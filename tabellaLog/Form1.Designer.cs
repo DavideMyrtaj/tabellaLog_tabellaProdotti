@@ -168,14 +168,14 @@
             // tabelleToolStripMenuItem
             // 
             this.tabelleToolStripMenuItem.Name = "tabelleToolStripMenuItem";
-            this.tabelleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tabelleToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.tabelleToolStripMenuItem.Text = "tabelle";
             this.tabelleToolStripMenuItem.Click += new System.EventHandler(this.tabelleToolStripMenuItem_Click);
             // 
             // dbToolStripMenuItem
             // 
             this.dbToolStripMenuItem.Name = "dbToolStripMenuItem";
-            this.dbToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.dbToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
             this.dbToolStripMenuItem.Text = "db";
             this.dbToolStripMenuItem.Click += new System.EventHandler(this.dbToolStripMenuItem_Click);
             // 
@@ -190,7 +190,7 @@
             // dbToolStripMenuItem1
             // 
             this.dbToolStripMenuItem1.Name = "dbToolStripMenuItem1";
-            this.dbToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.dbToolStripMenuItem1.Size = new System.Drawing.Size(88, 22);
             this.dbToolStripMenuItem1.Text = "db";
             this.dbToolStripMenuItem1.Click += new System.EventHandler(this.dbToolStripMenuItem1_Click);
             // 
@@ -208,7 +208,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "accesso";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

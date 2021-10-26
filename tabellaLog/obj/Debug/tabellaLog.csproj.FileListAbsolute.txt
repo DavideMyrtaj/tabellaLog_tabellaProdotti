@@ -42,3 +42,16 @@ C:\Users\Davide\Desktop\programma_sql_log-main\tabellaLog\obj\Debug\tabellaLog.c
 C:\Users\Davide\Desktop\programma_sql_log-main\tabellaLog\obj\Debug\tabellaLog.csproj.CopyComplete
 C:\Users\Davide\Desktop\programma_sql_log-main\tabellaLog\obj\Debug\tabellaLog.exe
 C:\Users\Davide\Desktop\programma_sql_log-main\tabellaLog\obj\Debug\tabellaLog.pdb
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\bin\Debug\tabellaLog.exe.config
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\bin\Debug\tabellaLog.exe
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\bin\Debug\tabellaLog.pdb
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.csprojAssemblyReference.cache
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.Form1.resources
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.insert.resources
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.Properties.Resources.resources
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.csproj.GenerateResource.cache
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.csproj.CopyComplete
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.exe
+C:\Users\Davide\Desktop\tabellaLog_tabellaProdotti\tabellaLog\obj\Debug\tabellaLog.pdb
